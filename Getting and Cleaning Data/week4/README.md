@@ -1,7 +1,6 @@
----
-title: "README"
-output: html_document
----
+## README
+
+This is a README file.
 
 ## How the script works
 

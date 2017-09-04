@@ -1,7 +1,4 @@
----
-title: "CodeBook"
-output: html_document
----
+## CodeBook
 
 This CodeBook describes the variables, the data, and any transformations or work that has been performed to clean up the data.
 
